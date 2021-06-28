@@ -1,6 +1,6 @@
 ### Hello I am Ramzi Eljabali
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RamziJabali)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RamziJabali&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
