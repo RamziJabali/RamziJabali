@@ -1,4 +1,4 @@
-### Hello I am Ramzi Eljabali
+### 👋🏻 Hello I am Ramzi Eljabali
 
 ![Ramzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=RamziJabali&show_icons=true&theme=tokyonight)
 
