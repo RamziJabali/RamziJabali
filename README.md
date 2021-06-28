@@ -1,4 +1,4 @@
-<h1 align="center"> Hello I am Ramzi Eljabali </h1>
+<h1 align="center">👋🏻  Hello I am Ramzi Eljabali 👋🏻 </h1>
 
 ![Ramzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=RamziJabali&show_icons=true&theme=tokyonight)
 
