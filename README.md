@@ -4,6 +4,6 @@
 
 <h3 align="center">Languages</h3>
 
-<img align="center src "https://github-readme-stats.vercel.app/api/top-langs/ username=RamziJabali&layout=compact&hide=cmake,makefile,c&theme=tokyonight">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RamziJabali&layout=compact&hide=cmake,makefile,c&theme=tokyonight)
                          
                        
