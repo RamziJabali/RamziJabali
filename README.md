@@ -3,7 +3,7 @@
 
 ![Ramzi's GitHub stats](https://github-readme-stats-ramzijabali.vercel.app/api?username=RamziJabali&count&private=true&show&icons=true&theme=synthwave)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RamziJabali&layout=compact&hide=cmake,makefile,c&theme=synthwave)
+![Top Langs](https://github-readme-stats-ramzijabali.vercel.app/api/top-langs/?username=RamziJabali&layout=compact&hide=cmake,makefile,c&theme=synthwave)
 
 <h3 align="left">Languages & Tools:</h3>
 <p align="left"> 
