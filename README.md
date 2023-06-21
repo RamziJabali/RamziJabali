@@ -1,7 +1,7 @@
 <h1 align="center">👋🏻 Hello, I'm Ramzi  </h1>
 <h3 align="center">An aspiring Android developer.</h3>
 
-![Ramzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=RamziJabali&count_private=true&show_icons=true&theme=synthwave)
+![Ramzi's GitHub stats](https://github-readme-stats-ramzijabali.vercel.app/api?username=RamziJabali&count&private=true&show&icons=true&theme=synthwave)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RamziJabali&layout=compact&hide=cmake,makefile,c&theme=synthwave)
 
