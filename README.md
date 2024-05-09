@@ -1,8 +1,8 @@
 <h1 align="center">👋🏻 Hello, I'm Ramzi  </h1>
 <h3 align="center">An Android Developer</h3>
 <p align="center">
-  <a href="https://github.com/RamziJabali"><img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=RamziJabali&hide=contribs&show_icons=true&include_all_commits=true&count_private=true"/></a>
-  <a href="https://github.com/RamziJabali"><img alt="GitHub Status" src="https://github-readme-stats-ramzijabali.vercel.app/api/top-langs/?username=RamziJabali&layout=compact&hide=cmake,makefile"/></a>
+  <a href="https://github.com/RamziJabali"><img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=RamziJabali&hide=contribs&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/></a>
+  <a href="https://github.com/RamziJabali"><img alt="GitHub Status" src="https://github-readme-stats-ramzijabali.vercel.app/api/top-langs/?username=RamziJabali&theme=synthwave&layout=compact&hide=cmake,makefile"/></a>
 </p>
 
 <h3 align="center">Languages & Tools:</h3>
