@@ -8,6 +8,6 @@
   
 <p align="center">
   <a href="https://github.com/RamziJabali">
-    <img src="https://skillicons.dev/icons?i=git,kotlin,java,cs,cpp,c" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,cs,cpp,c" />
   </a>
 </p>
